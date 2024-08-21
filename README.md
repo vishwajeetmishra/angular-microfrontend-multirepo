@@ -1,2 +1,2 @@
 # angular-microfrontend-multirepo
-A multi repo angular  micro frontend project which works different code base
+Angular micro frontend project with <b>multi repo</b> which works on different code base unlike monolithic microfrontend.
